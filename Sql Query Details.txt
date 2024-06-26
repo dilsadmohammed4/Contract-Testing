@@ -22,7 +22,7 @@ INSERT INTO Storage2(book_name,id,isbn,aisle,author) values("Appium","ttefs36","
 select * from Storage2;
 
 
-****** Courses Microservice****************
+****** Courses Microservice Details****************
 
 
 CREATE DATABASE Courses;
